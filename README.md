@@ -12,7 +12,7 @@
 
 ### 照片
 
-![avatar](https://github.com/dora4/dora_rotate_cover_view/blob/main/art/dora_rotate_cover_view.png)
+![avatar](https://github.com/dora4/dora_rotate_cover_view/blob/main/art/dora_rotate_cover_view.jpg)
 
 ### 动图
 
